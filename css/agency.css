@@ -298,6 +298,16 @@ header.masthead .intro-text .intro-heading {
   }
 }
 
+@media (min-width: 400px) {
+  .about-p {
+    padding: 0px 20px 0px 20px;
+  }
+
+  .new-about {
+    padding: 0px 20px 0px 20px;
+  }
+}
+
 .portfolio-modal {
   padding-right: 0px !important;
 }
@@ -491,13 +501,13 @@ header.masthead .intro-text .intro-heading {
 }
 
 @media (min-width: 768px) {
-  .new-about {
+  /* .new-about {
     padding-right: 0;
-  }
+  } */
 
-  .about-p {
+  /* .about-p {
     padding: 0px 25px 0px 25px;
-  }
+  } */
 
   .timeline:before {
     left: 50%;
