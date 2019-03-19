@@ -495,6 +495,10 @@ header.masthead .intro-text .intro-heading {
     padding-right: 0;
   }
 
+  .about-p {
+    padding: 0px 15px 0px 15px;
+  }
+
   .timeline:before {
     left: 50%;
   }
