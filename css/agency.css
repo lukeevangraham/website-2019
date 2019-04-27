@@ -603,6 +603,10 @@ header.masthead .intro-text .intro-heading {
   margin-top: 0;
 }
 
+#personal-contact {
+  color: #fff;
+}
+
 section#contact {
   background-color: #212529;
   background-image: url("../img/map-image.png");
